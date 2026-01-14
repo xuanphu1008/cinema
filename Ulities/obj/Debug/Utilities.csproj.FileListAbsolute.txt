@@ -1,0 +1,18 @@
+D:\Workspace\BT C#\4SCinema\4SCinema\Ulities\bin\Debug\Ulities.dll
+D:\Workspace\BT C#\4SCinema\4SCinema\Ulities\bin\Debug\Ulities.pdb
+D:\Workspace\BT C#\4SCinema\4SCinema\Ulities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+D:\Workspace\BT C#\4SCinema\4SCinema\Ulities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\Workspace\BT C#\4SCinema\4SCinema\Ulities\obj\Debug\Ulities.dll
+D:\Workspace\BT C#\4SCinema\4SCinema\Ulities\obj\Debug\Ulities.pdb
+D:\C#\4Scinema_Winform\Ulities\bin\Debug\Ulities.dll
+D:\C#\4Scinema_Winform\Ulities\bin\Debug\Ulities.pdb
+D:\C#\4Scinema_Winform\Ulities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+D:\C#\4Scinema_Winform\Ulities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\C#\4Scinema_Winform\Ulities\obj\Debug\Ulities.dll
+D:\C#\4Scinema_Winform\Ulities\obj\Debug\Ulities.pdb
+D:\Workspace\BT C#\BTL\Ulities\bin\Debug\Ulities.dll
+D:\Workspace\BT C#\BTL\Ulities\bin\Debug\Ulities.pdb
+D:\Workspace\BT C#\BTL\Ulities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+D:\Workspace\BT C#\BTL\Ulities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\Workspace\BT C#\BTL\Ulities\obj\Debug\Ulities.dll
+D:\Workspace\BT C#\BTL\Ulities\obj\Debug\Ulities.pdb

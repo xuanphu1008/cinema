@@ -1,0 +1,46 @@
+D:\Workspace\BT C#\4SCinema\4SCinema\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\Workspace\BT C#\4SCinema\4SCinema\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\Workspace\BT C#\4SCinema\4SCinema\BusinessLogic\bin\Debug\DataAccessLayer.dll
+D:\Workspace\BT C#\4SCinema\4SCinema\BusinessLogic\bin\Debug\Ulities.dll
+D:\Workspace\BT C#\4SCinema\4SCinema\BusinessLogic\bin\Debug\DataAccessLayer.pdb
+D:\Workspace\BT C#\4SCinema\4SCinema\BusinessLogic\bin\Debug\Ulities.pdb
+D:\Workspace\BT C#\4SCinema\4SCinema\BusinessLogic\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Workspace\BT C#\4SCinema\4SCinema\BusinessLogic\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Workspace\BT C#\4SCinema\4SCinema\BusinessLogic\obj\Debug\BLL.csproj.Up2Date
+D:\Workspace\BT C#\4SCinema\4SCinema\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\Workspace\BT C#\4SCinema\4SCinema\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\Workspace\BT C#\4SCinema\4SCinema\BusinessLogic\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Workspace\BT C#\4SCinema\4SCinema\BusinessLogic\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\C#\4Scinema_Winform\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\C#\4Scinema_Winform\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\C#\4Scinema_Winform\BusinessLogic\bin\Debug\DataAccessLayer.dll
+D:\C#\4Scinema_Winform\BusinessLogic\bin\Debug\Ulities.dll
+D:\C#\4Scinema_Winform\BusinessLogic\bin\Debug\DataAccessLayer.pdb
+D:\C#\4Scinema_Winform\BusinessLogic\bin\Debug\Ulities.pdb
+D:\C#\4Scinema_Winform\BusinessLogic\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\C#\4Scinema_Winform\BusinessLogic\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\C#\4Scinema_Winform\BusinessLogic\obj\Debug\BLL.csproj.Up2Date
+D:\C#\4Scinema_Winform\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\C#\4Scinema_Winform\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\Workspace\BT C#\BTL\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\Workspace\BT C#\BTL\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\Workspace\BT C#\BTL\BusinessLogic\bin\Debug\DataAccessLayer.dll
+D:\Workspace\BT C#\BTL\BusinessLogic\bin\Debug\Ulities.dll
+D:\Workspace\BT C#\BTL\BusinessLogic\bin\Debug\DataAccessLayer.pdb
+D:\Workspace\BT C#\BTL\BusinessLogic\bin\Debug\Ulities.pdb
+D:\Workspace\BT C#\BTL\BusinessLogic\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Workspace\BT C#\BTL\BusinessLogic\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Workspace\BT C#\BTL\BusinessLogic\obj\Debug\BLL.csproj.Up2Date
+D:\Workspace\BT C#\BTL\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\Workspace\BT C#\BTL\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\C#\Cinema\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\C#\Cinema\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\C#\Cinema\BusinessLogic\bin\Debug\DataAccessLayer.dll
+D:\C#\Cinema\BusinessLogic\bin\Debug\Ulities.dll
+D:\C#\Cinema\BusinessLogic\bin\Debug\DataAccessLayer.pdb
+D:\C#\Cinema\BusinessLogic\bin\Debug\Ulities.pdb
+D:\C#\Cinema\BusinessLogic\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\C#\Cinema\BusinessLogic\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\C#\Cinema\BusinessLogic\obj\Debug\BLL.csproj.Up2Date
+D:\C#\Cinema\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\C#\Cinema\BusinessLogic\obj\Debug\BusinessLogic.pdb

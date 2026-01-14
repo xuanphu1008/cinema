@@ -1,0 +1,9 @@
+D:\Workspace\BT C#\4SCinema\4SCinema\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\Workspace\BT C#\4SCinema\4SCinema\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\Workspace\BT C#\4SCinema\4SCinema\BusinessLogic\bin\Debug\DataAccessLayer.dll
+D:\Workspace\BT C#\4SCinema\4SCinema\BusinessLogic\bin\Debug\DataAccessLayer.pdb
+D:\Workspace\BT C#\4SCinema\4SCinema\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+D:\Workspace\BT C#\4SCinema\4SCinema\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Workspace\BT C#\4SCinema\4SCinema\BusinessLogic\obj\Debug\Business.CF5D6E35.Up2Date
+D:\Workspace\BT C#\4SCinema\4SCinema\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\Workspace\BT C#\4SCinema\4SCinema\BusinessLogic\obj\Debug\BusinessLogic.pdb
