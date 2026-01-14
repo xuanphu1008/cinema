@@ -1,0 +1,194 @@
+D:\Workspace\BT C#\4SCinema\4SCinema\Presentation\bin\Debug\Presentation.exe.config
+D:\Workspace\BT C#\4SCinema\4SCinema\Presentation\bin\Debug\Presentation.exe
+D:\Workspace\BT C#\4SCinema\4SCinema\Presentation\bin\Debug\Presentation.pdb
+D:\Workspace\BT C#\4SCinema\4SCinema\Presentation\bin\Debug\BusinessLogic.dll
+D:\Workspace\BT C#\4SCinema\4SCinema\Presentation\bin\Debug\BusinessLogic.pdb
+D:\Workspace\BT C#\4SCinema\4SCinema\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+D:\Workspace\BT C#\4SCinema\4SCinema\Presentation\obj\Debug\Presentation.frmMain.resources
+D:\Workspace\BT C#\4SCinema\4SCinema\Presentation\obj\Debug\Presentation.Forms.frmRegister.resources
+D:\Workspace\BT C#\4SCinema\4SCinema\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+D:\Workspace\BT C#\4SCinema\4SCinema\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+D:\Workspace\BT C#\4SCinema\4SCinema\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+D:\Workspace\BT C#\4SCinema\4SCinema\Presentation\obj\Debug\Presenta.BC777DBE.Up2Date
+D:\Workspace\BT C#\4SCinema\4SCinema\Presentation\obj\Debug\Presentation.exe
+D:\Workspace\BT C#\4SCinema\4SCinema\Presentation\obj\Debug\Presentation.pdb
+D:\Workspace\BT C#\4SCinema\4SCinema\Presentation\obj\Debug\Presentation.Forms.frmLogin.resources
+D:\Workspace\BT C#\4SCinema\4SCinema\Presentation\obj\Debug\Presentation.Controls.MenuListControl.resources
+D:\Workspace\BT C#\4SCinema\4SCinema\Presentation\bin\Debug\MetroFramework.Design.dll
+D:\Workspace\BT C#\4SCinema\4SCinema\Presentation\bin\Debug\MetroFramework.dll
+D:\Workspace\BT C#\4SCinema\4SCinema\Presentation\bin\Debug\MetroFramework.Fonts.dll
+D:\Workspace\BT C#\4SCinema\4SCinema\Presentation\bin\Debug\Ulities.dll
+D:\Workspace\BT C#\4SCinema\4SCinema\Presentation\bin\Debug\DataAccessLayer.dll
+D:\Workspace\BT C#\4SCinema\4SCinema\Presentation\bin\Debug\Ulities.pdb
+D:\Workspace\BT C#\4SCinema\4SCinema\Presentation\bin\Debug\DataAccessLayer.pdb
+D:\C#\4Scinema_Winform\Presentation\bin\Debug\Presentation.exe.config
+D:\C#\4Scinema_Winform\Presentation\bin\Debug\Presentation.exe
+D:\C#\4Scinema_Winform\Presentation\bin\Debug\Presentation.pdb
+D:\C#\4Scinema_Winform\Presentation\bin\Debug\BusinessLogic.dll
+D:\C#\4Scinema_Winform\Presentation\bin\Debug\Ulities.dll
+D:\C#\4Scinema_Winform\Presentation\bin\Debug\DataAccessLayer.dll
+D:\C#\4Scinema_Winform\Presentation\bin\Debug\BusinessLogic.pdb
+D:\C#\4Scinema_Winform\Presentation\bin\Debug\Ulities.pdb
+D:\C#\4Scinema_Winform\Presentation\bin\Debug\DataAccessLayer.pdb
+D:\C#\4Scinema_Winform\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+D:\C#\4Scinema_Winform\Presentation\obj\Debug\Presentation.Controls.MenuListControl.resources
+D:\C#\4Scinema_Winform\Presentation\obj\Debug\Presentation.Forms.frmLogin.resources
+D:\C#\4Scinema_Winform\Presentation\obj\Debug\Presentation.frmMain.resources
+D:\C#\4Scinema_Winform\Presentation\obj\Debug\Presentation.Forms.frmRegister.resources
+D:\C#\4Scinema_Winform\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+D:\C#\4Scinema_Winform\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+D:\C#\4Scinema_Winform\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+D:\C#\4Scinema_Winform\Presentation\obj\Debug\Presenta.BC777DBE.Up2Date
+D:\C#\4Scinema_Winform\Presentation\obj\Debug\Presentation.exe
+D:\C#\4Scinema_Winform\Presentation\obj\Debug\Presentation.pdb
+D:\C#\4Scinema_Winform\Presentation\obj\Debug\Presentation.Forms.admin.add.frmAddEmployee.resources
+D:\C#\4Scinema_Winform\Presentation\obj\Debug\Presentation.Forms.admin.add.frmAddMovie.resources
+D:\C#\4Scinema_Winform\Presentation\obj\Debug\Presentation.Forms.admin.add.frmAddProduct.resources
+D:\C#\4Scinema_Winform\Presentation\obj\Debug\Presentation.Forms.admin.add.frmAddScreen.resources
+D:\C#\4Scinema_Winform\Presentation\obj\Debug\Presentation.Forms.admin.edit.frmEditEmployee.resources
+D:\C#\4Scinema_Winform\Presentation\obj\Debug\Presentation.Forms.admin.edit.frmEditMovie.resources
+D:\C#\4Scinema_Winform\Presentation\obj\Debug\Presentation.Forms.admin.edit.frmEditProduct.resources
+D:\C#\4Scinema_Winform\Presentation\obj\Debug\Presentation.Forms.admin.edit.frmEditScreen.resources
+D:\C#\4Scinema_Winform\Presentation\obj\Debug\Presentation.Forms.admin.edit.frmViewScreencs.resources
+D:\C#\4Scinema_Winform\Presentation\obj\Debug\Presentation.Forms.admin.frmCustomer.resources
+D:\C#\4Scinema_Winform\Presentation\obj\Debug\Presentation.Forms.admin.frmEmployee.resources
+D:\C#\4Scinema_Winform\Presentation\obj\Debug\Presentation.Forms.admin.frmProduct.resources
+D:\C#\4Scinema_Winform\Presentation\obj\Debug\Presentation.Forms.admin.frmScreen.resources
+D:\C#\4Scinema_Winform\Presentation\bin\Debug\Resource\image\Annabelle_poster.jpg
+D:\C#\4Scinema_Winform\Presentation\bin\Debug\Resource\image\AquietPlace_poster.jpg
+D:\C#\4Scinema_Winform\Presentation\bin\Debug\Resource\image\Avatar_poster.jpg
+D:\C#\4Scinema_Winform\Presentation\bin\Debug\Resource\image\Avengers_EndGame_poster.jpg
+D:\C#\4Scinema_Winform\Presentation\bin\Debug\Resource\image\BoGia_poster.jpg
+D:\C#\4Scinema_Winform\Presentation\bin\Debug\Resource\image\Cinderella_poster.jpg
+D:\C#\4Scinema_Winform\Presentation\bin\Debug\Resource\image\coca.png
+D:\C#\4Scinema_Winform\Presentation\bin\Debug\Resource\image\coke-zero.png
+D:\C#\4Scinema_Winform\Presentation\bin\Debug\Resource\image\combo-couple.png
+D:\C#\4Scinema_Winform\Presentation\bin\Debug\Resource\image\combo-hotdog.png
+D:\C#\4Scinema_Winform\Presentation\bin\Debug\Resource\image\combo-party.png
+D:\C#\4Scinema_Winform\Presentation\bin\Debug\Resource\image\combo-solo.png
+D:\C#\4Scinema_Winform\Presentation\bin\Debug\Resource\image\DespicableMe_poster.jpg
+D:\C#\4Scinema_Winform\Presentation\bin\Debug\Resource\image\Dune-Movie-Main-Poster.jpg
+D:\C#\4Scinema_Winform\Presentation\bin\Debug\Resource\image\FF8_poster.jpg
+D:\C#\4Scinema_Winform\Presentation\bin\Debug\Resource\image\Friday13th_poster.jpg
+D:\C#\4Scinema_Winform\Presentation\bin\Debug\Resource\image\get-out-poster.jpg
+D:\C#\4Scinema_Winform\Presentation\bin\Debug\Resource\image\GodvsKong_poster.jpg
+D:\C#\4Scinema_Winform\Presentation\bin\Debug\Resource\image\Hereditary_poster.jpg
+D:\C#\4Scinema_Winform\Presentation\bin\Debug\Resource\image\hotdog.png
+D:\C#\4Scinema_Winform\Presentation\bin\Debug\Resource\image\Inception_poster.jpg
+D:\C#\4Scinema_Winform\Presentation\bin\Debug\Resource\image\Incidious_poster.jpg
+D:\C#\4Scinema_Winform\Presentation\bin\Debug\Resource\image\Interstella_poster.jpg
+D:\Workspace\BT C#\BTL\Presentation\bin\Debug\Resource\image\Annabelle_poster.jpg
+D:\Workspace\BT C#\BTL\Presentation\bin\Debug\Resource\image\AquietPlace_poster.jpg
+D:\Workspace\BT C#\BTL\Presentation\bin\Debug\Resource\image\Avatar_poster.jpg
+D:\Workspace\BT C#\BTL\Presentation\bin\Debug\Resource\image\Avengers_EndGame_poster.jpg
+D:\Workspace\BT C#\BTL\Presentation\bin\Debug\Resource\image\BoGia_poster.jpg
+D:\Workspace\BT C#\BTL\Presentation\bin\Debug\Resource\image\Cinderella_poster.jpg
+D:\Workspace\BT C#\BTL\Presentation\bin\Debug\Resource\image\coca.png
+D:\Workspace\BT C#\BTL\Presentation\bin\Debug\Resource\image\coke-zero.png
+D:\Workspace\BT C#\BTL\Presentation\bin\Debug\Resource\image\combo-couple.png
+D:\Workspace\BT C#\BTL\Presentation\bin\Debug\Resource\image\combo-hotdog.png
+D:\Workspace\BT C#\BTL\Presentation\bin\Debug\Resource\image\combo-party.png
+D:\Workspace\BT C#\BTL\Presentation\bin\Debug\Resource\image\combo-solo.png
+D:\Workspace\BT C#\BTL\Presentation\bin\Debug\Resource\image\DespicableMe_poster.jpg
+D:\Workspace\BT C#\BTL\Presentation\bin\Debug\Resource\image\Dune-Movie-Main-Poster.jpg
+D:\Workspace\BT C#\BTL\Presentation\bin\Debug\Resource\image\FF8_poster.jpg
+D:\Workspace\BT C#\BTL\Presentation\bin\Debug\Resource\image\Friday13th_poster.jpg
+D:\Workspace\BT C#\BTL\Presentation\bin\Debug\Resource\image\get-out-poster.jpg
+D:\Workspace\BT C#\BTL\Presentation\bin\Debug\Resource\image\GodvsKong_poster.jpg
+D:\Workspace\BT C#\BTL\Presentation\bin\Debug\Resource\image\Hereditary_poster.jpg
+D:\Workspace\BT C#\BTL\Presentation\bin\Debug\Resource\image\hotdog.png
+D:\Workspace\BT C#\BTL\Presentation\bin\Debug\Resource\image\Inception_poster.jpg
+D:\Workspace\BT C#\BTL\Presentation\bin\Debug\Resource\image\Incidious_poster.jpg
+D:\Workspace\BT C#\BTL\Presentation\bin\Debug\Resource\image\Interstella_poster.jpg
+D:\Workspace\BT C#\BTL\Presentation\bin\Debug\Presentation.exe.config
+D:\Workspace\BT C#\BTL\Presentation\bin\Debug\Presentation.exe
+D:\Workspace\BT C#\BTL\Presentation\bin\Debug\Presentation.pdb
+D:\Workspace\BT C#\BTL\Presentation\bin\Debug\BusinessLogic.dll
+D:\Workspace\BT C#\BTL\Presentation\bin\Debug\Ulities.dll
+D:\Workspace\BT C#\BTL\Presentation\bin\Debug\DataAccessLayer.dll
+D:\Workspace\BT C#\BTL\Presentation\bin\Debug\BusinessLogic.pdb
+D:\Workspace\BT C#\BTL\Presentation\bin\Debug\Ulities.pdb
+D:\Workspace\BT C#\BTL\Presentation\bin\Debug\DataAccessLayer.pdb
+D:\Workspace\BT C#\BTL\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+D:\Workspace\BT C#\BTL\Presentation\obj\Debug\Presentation.Forms.admin.add.frmAddEmployee.resources
+D:\Workspace\BT C#\BTL\Presentation\obj\Debug\Presentation.Forms.admin.add.frmAddMovie.resources
+D:\Workspace\BT C#\BTL\Presentation\obj\Debug\Presentation.Forms.admin.add.frmAddProduct.resources
+D:\Workspace\BT C#\BTL\Presentation\obj\Debug\Presentation.Forms.admin.add.frmAddScreen.resources
+D:\Workspace\BT C#\BTL\Presentation\obj\Debug\Presentation.Forms.admin.edit.frmEditEmployee.resources
+D:\Workspace\BT C#\BTL\Presentation\obj\Debug\Presentation.Forms.admin.edit.frmEditMovie.resources
+D:\Workspace\BT C#\BTL\Presentation\obj\Debug\Presentation.Forms.admin.edit.frmEditProduct.resources
+D:\Workspace\BT C#\BTL\Presentation\obj\Debug\Presentation.Forms.admin.edit.frmEditScreen.resources
+D:\Workspace\BT C#\BTL\Presentation\obj\Debug\Presentation.Forms.admin.frmCustomer.resources
+D:\Workspace\BT C#\BTL\Presentation\obj\Debug\Presentation.Forms.admin.frmEmployee.resources
+D:\Workspace\BT C#\BTL\Presentation\obj\Debug\Presentation.Forms.admin.frmProduct.resources
+D:\Workspace\BT C#\BTL\Presentation\obj\Debug\Presentation.Forms.admin.frmScreen.resources
+D:\Workspace\BT C#\BTL\Presentation\obj\Debug\Presentation.Forms.frmLogin.resources
+D:\Workspace\BT C#\BTL\Presentation\obj\Debug\Presentation.frmMain.resources
+D:\Workspace\BT C#\BTL\Presentation\obj\Debug\Presentation.Forms.frmRegister.resources
+D:\Workspace\BT C#\BTL\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+D:\Workspace\BT C#\BTL\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+D:\Workspace\BT C#\BTL\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+D:\Workspace\BT C#\BTL\Presentation\obj\Debug\Presenta.BC777DBE.Up2Date
+D:\Workspace\BT C#\BTL\Presentation\obj\Debug\Presentation.exe
+D:\Workspace\BT C#\BTL\Presentation\obj\Debug\Presentation.pdb
+D:\Workspace\BT C#\BTL\Presentation\obj\Debug\Presentation.Forms.admin.frmRevenue.resources
+D:\Workspace\BT C#\BTL\Presentation\obj\Debug\Presentation.Forms.admin.edit.frmViewScreen.resources
+D:\Workspace\BT C#\BTL\Presentation\obj\Debug\Presentation.Forms.admin.frmMovie.resources
+D:\Workspace\BT C#\BTL\Presentation\obj\Debug\Presentation.csproj.ResolveComReference.cache
+D:\C#\Cinema\Presentation\bin\Debug\Resource\image\Annabelle_poster.jpg
+D:\C#\Cinema\Presentation\bin\Debug\Resource\image\AquietPlace_poster.jpg
+D:\C#\Cinema\Presentation\bin\Debug\Resource\image\Avatar_poster.jpg
+D:\C#\Cinema\Presentation\bin\Debug\Resource\image\Avengers_EndGame_poster.jpg
+D:\C#\Cinema\Presentation\bin\Debug\Resource\image\BoGia_poster.jpg
+D:\C#\Cinema\Presentation\bin\Debug\Resource\image\Cinderella_poster.jpg
+D:\C#\Cinema\Presentation\bin\Debug\Resource\image\coca.png
+D:\C#\Cinema\Presentation\bin\Debug\Resource\image\coke-zero.png
+D:\C#\Cinema\Presentation\bin\Debug\Resource\image\combo-couple.png
+D:\C#\Cinema\Presentation\bin\Debug\Resource\image\combo-hotdog.png
+D:\C#\Cinema\Presentation\bin\Debug\Resource\image\combo-party.png
+D:\C#\Cinema\Presentation\bin\Debug\Resource\image\combo-solo.png
+D:\C#\Cinema\Presentation\bin\Debug\Resource\image\DespicableMe_poster.jpg
+D:\C#\Cinema\Presentation\bin\Debug\Resource\image\Dune-Movie-Main-Poster.jpg
+D:\C#\Cinema\Presentation\bin\Debug\Resource\image\FF8_poster.jpg
+D:\C#\Cinema\Presentation\bin\Debug\Resource\image\Friday13th_poster.jpg
+D:\C#\Cinema\Presentation\bin\Debug\Resource\image\get-out-poster.jpg
+D:\C#\Cinema\Presentation\bin\Debug\Resource\image\GodvsKong_poster.jpg
+D:\C#\Cinema\Presentation\bin\Debug\Resource\image\Hereditary_poster.jpg
+D:\C#\Cinema\Presentation\bin\Debug\Resource\image\hotdog.png
+D:\C#\Cinema\Presentation\bin\Debug\Resource\image\Inception_poster.jpg
+D:\C#\Cinema\Presentation\bin\Debug\Resource\image\Incidious_poster.jpg
+D:\C#\Cinema\Presentation\bin\Debug\Resource\image\Interstella_poster.jpg
+D:\C#\Cinema\Presentation\bin\Debug\Presentation.exe.config
+D:\C#\Cinema\Presentation\bin\Debug\Presentation.exe
+D:\C#\Cinema\Presentation\bin\Debug\Presentation.pdb
+D:\C#\Cinema\Presentation\bin\Debug\BusinessLogic.dll
+D:\C#\Cinema\Presentation\bin\Debug\Ulities.dll
+D:\C#\Cinema\Presentation\bin\Debug\DataAccessLayer.dll
+D:\C#\Cinema\Presentation\bin\Debug\BusinessLogic.pdb
+D:\C#\Cinema\Presentation\bin\Debug\Ulities.pdb
+D:\C#\Cinema\Presentation\bin\Debug\DataAccessLayer.pdb
+D:\C#\Cinema\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+D:\C#\Cinema\Presentation\obj\Debug\Presentation.csproj.ResolveComReference.cache
+D:\C#\Cinema\Presentation\obj\Debug\Presentation.Forms.admin.add.frmAddEmployee.resources
+D:\C#\Cinema\Presentation\obj\Debug\Presentation.Forms.admin.add.frmAddMovie.resources
+D:\C#\Cinema\Presentation\obj\Debug\Presentation.Forms.admin.add.frmAddProduct.resources
+D:\C#\Cinema\Presentation\obj\Debug\Presentation.Forms.admin.add.frmAddScreen.resources
+D:\C#\Cinema\Presentation\obj\Debug\Presentation.Forms.admin.edit.frmEditEmployee.resources
+D:\C#\Cinema\Presentation\obj\Debug\Presentation.Forms.admin.edit.frmEditMovie.resources
+D:\C#\Cinema\Presentation\obj\Debug\Presentation.Forms.admin.edit.frmEditProduct.resources
+D:\C#\Cinema\Presentation\obj\Debug\Presentation.Forms.admin.edit.frmViewScreen.resources
+D:\C#\Cinema\Presentation\obj\Debug\Presentation.Forms.admin.frmCustomer.resources
+D:\C#\Cinema\Presentation\obj\Debug\Presentation.Forms.admin.frmEmployee.resources
+D:\C#\Cinema\Presentation\obj\Debug\Presentation.Forms.admin.frmMovie.resources
+D:\C#\Cinema\Presentation\obj\Debug\Presentation.Forms.admin.frmProduct.resources
+D:\C#\Cinema\Presentation\obj\Debug\Presentation.Forms.admin.frmRevenue.resources
+D:\C#\Cinema\Presentation\obj\Debug\Presentation.Forms.admin.frmScreen.resources
+D:\C#\Cinema\Presentation\obj\Debug\Presentation.Forms.frmLogin.resources
+D:\C#\Cinema\Presentation\obj\Debug\Presentation.frmMain.resources
+D:\C#\Cinema\Presentation\obj\Debug\Presentation.Forms.frmRegister.resources
+D:\C#\Cinema\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+D:\C#\Cinema\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+D:\C#\Cinema\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+D:\C#\Cinema\Presentation\obj\Debug\Presenta.BC777DBE.Up2Date
+D:\C#\Cinema\Presentation\obj\Debug\Presentation.exe
+D:\C#\Cinema\Presentation\obj\Debug\Presentation.pdb
