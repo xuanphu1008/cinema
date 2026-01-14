@@ -1,0 +1,9 @@
+D:\Workspace\BT C#\4SCinema\4SCinema\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Workspace\BT C#\4SCinema\4SCinema\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Workspace\BT C#\4SCinema\4SCinema\DataAccessLayer\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\Workspace\BT C#\4SCinema\4SCinema\DataAccessLayer\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\Workspace\BT C#\4SCinema\4SCinema\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Workspace\BT C#\4SCinema\4SCinema\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Workspace\BT C#\4SCinema\4SCinema\DataAccessLayer\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Workspace\BT C#\4SCinema\4SCinema\DataAccessLayer\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Workspace\BT C#\4SCinema\4SCinema\DataAccessLayer\obj\Debug\DataAccess.csproj.Up2Date

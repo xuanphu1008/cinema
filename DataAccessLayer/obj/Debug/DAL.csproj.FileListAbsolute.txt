@@ -1,0 +1,38 @@
+D:\Workspace\BT C#\4SCinema\4SCinema\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Workspace\BT C#\4SCinema\4SCinema\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Workspace\BT C#\4SCinema\4SCinema\DataAccessLayer\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Workspace\BT C#\4SCinema\4SCinema\DataAccessLayer\bin\Debug\Ulities.dll
+D:\Workspace\BT C#\4SCinema\4SCinema\DataAccessLayer\bin\Debug\Ulities.pdb
+D:\Workspace\BT C#\4SCinema\4SCinema\DataAccessLayer\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Workspace\BT C#\4SCinema\4SCinema\DataAccessLayer\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Workspace\BT C#\4SCinema\4SCinema\DataAccessLayer\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Workspace\BT C#\4SCinema\4SCinema\DataAccessLayer\obj\Debug\DAL.csproj.Up2Date
+D:\Workspace\BT C#\4SCinema\4SCinema\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Workspace\BT C#\4SCinema\4SCinema\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\C#\4Scinema_Winform\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\C#\4Scinema_Winform\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\C#\4Scinema_Winform\DataAccessLayer\bin\Debug\Ulities.dll
+D:\C#\4Scinema_Winform\DataAccessLayer\bin\Debug\Ulities.pdb
+D:\C#\4Scinema_Winform\DataAccessLayer\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\C#\4Scinema_Winform\DataAccessLayer\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\C#\4Scinema_Winform\DataAccessLayer\obj\Debug\DAL.csproj.Up2Date
+D:\C#\4Scinema_Winform\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\C#\4Scinema_Winform\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Workspace\BT C#\BTL\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Workspace\BT C#\BTL\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Workspace\BT C#\BTL\DataAccessLayer\bin\Debug\Ulities.dll
+D:\Workspace\BT C#\BTL\DataAccessLayer\bin\Debug\Ulities.pdb
+D:\Workspace\BT C#\BTL\DataAccessLayer\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Workspace\BT C#\BTL\DataAccessLayer\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Workspace\BT C#\BTL\DataAccessLayer\obj\Debug\DAL.csproj.Up2Date
+D:\Workspace\BT C#\BTL\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Workspace\BT C#\BTL\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\C#\Cinema\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\C#\Cinema\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\C#\Cinema\DataAccessLayer\bin\Debug\Ulities.dll
+D:\C#\Cinema\DataAccessLayer\bin\Debug\Ulities.pdb
+D:\C#\Cinema\DataAccessLayer\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\C#\Cinema\DataAccessLayer\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\C#\Cinema\DataAccessLayer\obj\Debug\DAL.csproj.Up2Date
+D:\C#\Cinema\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\C#\Cinema\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
